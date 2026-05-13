@@ -8,10 +8,10 @@ The focus of this repository is on mastering the **C++ Standard Template Library
 ## 📂 Repository Structure
 
 ### 🔹 Week 01: Warm-up & Logic Building
-- [ ] Mathematical logic and constraints (Modulo, Absolute Differences).
-- [ ] Array manipulations and Greedy algorithms (e.g., MEX, Twin Permutations).
-- [ ] String processing and Frequency Arrays (e.g., Lexicographical search, Palindrome logic).
-- [ ] Simulation and edge-case handling (e.g., Cypher simulation).
+- [x] Mathematical logic and constraints (Modulo, Absolute Differences).
+- [x] Array manipulations and Greedy algorithms (e.g., MEX, Twin Permutations).
+- [x] String processing and Frequency Arrays (e.g., Lexicographical search, Palindrome logic).
+- [x] Simulation and edge-case handling (e.g., Cypher simulation).
 
 ### 🔹 Week 02: Core STL (Standard Template Library)
 - [ ] `std::vector`, `std::deque`, and `std::string` manipulation.
